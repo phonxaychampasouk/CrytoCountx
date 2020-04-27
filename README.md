@@ -1,8 +1,8 @@
 # CrytoCountx
 Allows users to search historical prices of Bitcoin by date range.
 
-![scaling](http://www.giphy.com/gifs/eiFpv3kB3ZISmiiYaQ.gif)
-
+![Searching](https://media.giphy.com/media/drxBqNfKDrmeXP6XGG/giphy.gif)
+![Searching](https://media.giphy.com/media/ZGCC5Lg7asY52tlQYE/giphy.gif)
 ## Table of Contents
 
 1. [Usage](#Usage)

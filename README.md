@@ -2,7 +2,7 @@
 Allows users to search historical prices of Bitcoin by date range.
 
 ![Searching](https://media.giphy.com/media/drxBqNfKDrmeXP6XGG/giphy.gif)
-![Searching](https://media.giphy.com/media/ZGCC5Lg7asY52tlQYE/giphy.gif)
+
 ## Table of Contents
 
 1. [Usage](#Usage)
